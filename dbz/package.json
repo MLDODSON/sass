@@ -1,0 +1,14 @@
+{
+  "name": "dbz",
+  "version": "1.0.0",
+  "description": "goku world landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Big Mike",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
